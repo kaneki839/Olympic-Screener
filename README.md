@@ -1,2 +1,2 @@
 # Olympic-Screener
-simular that allow you to analyze athlete information
+simulator that allow you to analyze athlete information
